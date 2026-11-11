@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "releaseSequence": 1,
+  "version": "0.2.1.1",
+  "files": [
+    {
+      "path": "omegaro-online-test.txt",
+      "url": "https://github.com/kiova24/OmegaRO-Eternal-Updates/releases/download/online-test-v0.2.1.1/b4375573734a_omegaro-online-test.txt",
+      "sha256": "4b9af6526543adeeed6bde7e75f7c275d6a98986ad042aedec87e681bc6f9dc4",
+      "size": 124
+    }
+  ],
+  "news": []
+}

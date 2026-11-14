@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 3,
+  "kind": "omegaro-resources",
+  "baseManifestSha256": "dd6626e0bdd73bcadba2417c0b2c52ea201ab4e5c676793ac05dc67c1ff04aff",
+  "version": "0.3.1.2",
+  "releaseSequence": 6,
+  "files": [
+    {
+      "path": "omegaro_compat_occidental.grf",
+      "url": "https://github.com/kiova24/OmegaRO-Eternal-Updates/releases/download/beta-resources-v0.3.1.2/12630c799f0d_omegaro_compat_occidental.grf",
+      "sha256": "1b2ad96b99664254afd4c6932696487f7b04af5228538507665d2d241a97cb8e",
+      "size": 4089
+    }
+  ],
+  "news": [
+    {
+      "title": "Bienvenidos a la beta privada de OmegaRO Eternal.",
+      "summary": "Primera prueba incremental del canal de recursos.",
+      "date": "2026-11-14"
+    }
+  ]
+}
